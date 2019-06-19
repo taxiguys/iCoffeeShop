@@ -1,0 +1,11 @@
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\iCoffeeShop.Server.Shared.deps.json
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\iCoffeeShop.Server.Shared.dll
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\obj\Debug\netstandard2.0\iCoffeeShop.Server.Shared.csprojAssemblyReference.cache
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\obj\Debug\netstandard2.0\iCoffeeShop.Server.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\obj\Debug\netstandard2.0\iCoffeeShop.Server.Shared.AssemblyInfoInputs.cache
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\obj\Debug\netstandard2.0\iCoffeeShop.Server.Shared.AssemblyInfo.cs
+D:\Projects\iCoffeeShop\Backend\iCoffeeShop.Server\iCoffeeShop.Server.Shared\obj\Debug\netstandard2.0\iCoffeeShop.Server.Shared.csproj.CopyComplete

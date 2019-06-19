@@ -1,0 +1,9 @@
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\bin\Debug\netcoreapp2.2\IdentityServer4.Identity.deps.json
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\bin\Debug\netcoreapp2.2\IdentityServer4.Identity.dll
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\bin\Debug\netcoreapp2.2\IdentityServer4.Identity.pdb
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.csprojAssemblyReference.cache
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.csproj.CoreCompileInputs.cache
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.AssemblyInfoInputs.cache
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.AssemblyInfo.cs
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.dll
+F:\TCIS_SSC\Teams\TA\Research\IDS\IdentityServer4.AspNetIdentity\IdentityServer4.Identity\obj\Debug\netcoreapp2.2\IdentityServer4.Identity.pdb
